@@ -224,3 +224,7 @@ Abre el navegador en: **http://localhost:5173**
 - PostgreSQL
 - Google Gemini AI
 - Bootstrap 5
+
+## 👨‍💻 Desarrollado por
+
+Juan David Guevara Atencia
